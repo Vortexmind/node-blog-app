@@ -1,0 +1,21 @@
+{
+  "name": "node-blog-app",
+  "author": {
+    "name": "Paolo Tagliaferri",
+    "email": "vortexmind@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vortexmind/node-blog-app"
+  },
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.3",
+    "jade": "0.32.0",
+    "restler" : "2.0.1"
+  }
+}
